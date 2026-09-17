@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.34.0](https://github.com/career-ops-hq/career-ops/compare/career-ops-v1.33.0...career-ops-v1.34.0) (2026-09-17)
+
+
+### Features
+
+* **providers:** add Python.org Jobs scanner provider ([24557b2](https://github.com/career-ops-hq/career-ops/commit/24557b2fbc713685b16071068601a61591eab319))
+
+
+### Bug Fixes
+
+* **batch:** escape ampersands in offer URLs ([d2cd237](https://github.com/career-ops-hq/career-ops/commit/d2cd23785a3364ab49d69481ecf8fd04e82f0c0a))
+* **batch:** parse scores locale-independently in batch-runner ([f24eac2](https://github.com/career-ops-hq/career-ops/commit/f24eac20c424aaaf11d038f9e00818ce6f6f631d))
+* **ci:** check out base before running labeler ([eaf10ad](https://github.com/career-ops-hq/career-ops/commit/eaf10adb3b34c79554f5b422c8bc9b9c5eaf23ac))
+* improve error message for missing cv.md ([602ac8b](https://github.com/career-ops-hq/career-ops/commit/602ac8b635ecf48b5c9068214666fa0c5c283ba2))
+* **jd-skill-gap:** improve error message for missing cv.md ([f783f0a](https://github.com/career-ops-hq/career-ops/commit/f783f0a64e1cf6b57db43dc36af762ec476b9e13))
+* **tests:** skip web-argv static half when web/ is not installed ([946b741](https://github.com/career-ops-hq/career-ops/commit/946b74180be0826eda3cca1b6667cf3261bc2a1e))
+* **web:** add vertical padding to pipeline facet chips ([#4038](https://github.com/career-ops-hq/career-ops/issues/4038)) ([b6bc5ff](https://github.com/career-ops-hq/career-ops/commit/b6bc5ffb92e847e43b91042d4b828c99ce5960a2))
+* **web:** let report tables use the screen on large displays ([e571f2c](https://github.com/career-ops-hq/career-ops/commit/e571f2cb9de3f8952863e5c51adc437a09b83fef))
+
 ## [1.33.0](https://github.com/career-ops-hq/career-ops/compare/career-ops-v1.32.0...career-ops-v1.33.0) (2026-09-16)
 
 
